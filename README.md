@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asmaaahmed07
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend developnebt
+- 🌱 I’m currently learning frontend development
 - 📫 My email is asmaahmed114131@gmail.com 
 
 <!---
